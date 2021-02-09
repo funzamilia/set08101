@@ -23,6 +23,16 @@
     background-color: rgb(201, 28, 28);
 }
 
+#displayed {
+    position: relative;
+    float: left;
+    margin-right: 30px;
+}
+
+#description {
+    position: relative;
+}
+
 h1 {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
@@ -41,4 +51,9 @@ p {
 
 body {
     background-color: #e53935;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
 }
