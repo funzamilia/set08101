@@ -29,6 +29,10 @@
     margin-right: 30px;
 }
 
+#displayed img {
+    border-radius: 10%;
+}
+
 #description {
     position: relative;
 }
